@@ -6,8 +6,13 @@ Zwei n8n-Workflows für automatisierte Tages-Newsletter per RSS: RSS-Feeds werde
 
 - `AI News.json` – n8n-Workflow: KI-News aus OpenAI Blog, MIT Technology Review, Techcrunch, Google AI Blog
 - `Nachrichtenextraktor.json` – n8n-Workflow: Tagesnachrichten aus Tagesschau/ARD, ZDF, Deutschlandfunk, Correctiv
+- `KI-Kosten_durch_Vorfilterung_effizient_senken.png` – Infografik zum Workflow
 - `Screenshot 2026-07-17 122755.png` – Screenshot
 - `einleitung.txt` – Begleitartikel: Kosteneinsparung durch Input-Validierung & Modell-Routing
+
+## Übersicht
+
+![Workflow-Übersicht](KI-Kosten_durch_Vorfilterung_effizient_senken.png)
 
 ## Screenshots
 
